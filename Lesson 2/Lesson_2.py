@@ -55,7 +55,36 @@
 #
 # if has_high_income and has_good_income:
 #     print("Eligible for loan")
-#if has_high_income or has_good_income:
+# if has_high_income or has_good_income:
 #    print("Eligible for loan")
-#if has_good_income and not has_criminal_record:
+# if has_good_income and not has_criminal_record:
 #    print("Eligible for loan")
+# _______________________________________
+# Задачка
+# temperature = 10
+#
+# if temperature > 30:
+#    print("It's a hot day")
+# else:
+#    print("It's not a hot day")
+# ________________________________________
+# Задачка
+# name = "J"
+#
+# if len(name) < 3:
+#    print("Name must be at least 3 characters")
+# elif len(name) > 50:
+#    print("Name must be a maximum of 50 characters")
+# else:
+#    print("Name looks good!")
+#
+# ______________________________________________
+# Домашняя работа
+# weight = int(input('Weight: '))
+# unit = input('(L)bs or (K)g: ')
+# if unit.upper() == "L":
+#    converted = weight * 0.45
+#    print(f"You are {converted} kilos")
+# else:
+#    converted = weight / 0.45
+#    print(f"You are {converted} pounds")
